@@ -1,79 +1,81 @@
-Mônica Araújo - Portfólio
-Este é o meu portfólio pessoal, desenvolvido com Next.js, React e Tailwind CSS, focado em demonstrar minhas habilidades como desenvolvedora Front-End. O objetivo é apresentar minhas ideias, projetos e experiências de forma dinâmica e moderna.
+# 💻 Portfólio Pessoal — Mônica Araújo
 
-🚀 Tecnologias Utilizadas
-Este projeto foi construído com as seguintes tecnologias:
+Este é o repositório do meu portfólio pessoal, desenvolvido com foco em apresentar minha trajetória, projetos, habilidades e tecnologias que domino na área de desenvolvimento web.  
+O projeto foi construído com **React**, **TypeScript**, **Tailwind CSS** e está em constante evolução — assim como eu. 🚀
 
-Next.js: Framework React para construção de aplicações web modernas, com foco em performance e experiência do desenvolvedor.
-React: Biblioteca JavaScript para construção de interfaces de usuário reativas e componentizadas.
-Tailwind CSS: Framework CSS utility-first para estilização rápida e responsiva, com foco em flexibilidade e personalização.
-JavaScript: Linguagem de programação principal.
-HTML5: Linguagem de marcação para a estrutura da página.
-CSS3: Linguagem de estilo para a aparência visual.
+## ✨ Sobre Mim
 
-✨ Funcionalidades
-Design Responsivo: Layout adaptável para diferentes tamanhos de tela (desktops, tablets e celulares).
-Modo Escuro: Alterna entre temas claro e escuro para melhor experiência do usuário.
-Tipagem Dinâmica: Efeito de digitação no texto principal para uma introdução envolvente.
-Navegação Fluida: Links para as seções principais do portfólio (Início, Sobre, Projetos, Contato).
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedora front-end em formação, apaixonada por transformar ideias em experiências visuais únicas.  
+Meu objetivo é me tornar uma desenvolvedora **Full Stack**, combinando criatividade com código limpo, interfaces intuitivas e boas práticas.
 
-🔗 Acesse o Projeto
-Repositório no GitHub: https://github.com/monica308/new-portfolio
-Deploy na Vercel: https://new-portfolio-kohl-theta.vercel.app/
+## 🚀 Tecnologias Utilizadas
 
-📦 Como Rodar o Projeto Localmente
-Siga os passos abaixo para configurar e rodar o projeto em sua máquina local:
+- React.js
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- Git e GitHub
 
-Pré-requisitos
-Certifique-se de ter o Node.js e o npm (ou Yarn) instalados em seu ambiente.
+## 🧩 Funcionalidades
 
-Node.js (versão LTS recomendada)
-npm (geralmente vem com o Node.js) ou Yarn
-Instalação
-Clone o repositório:
+- Apresentação pessoal com animação de texto
+- Seção de projetos integrados à API do GitHub
+- Responsividade total para mobile e desktop
+- Rodapé animado com links úteis
+- Botão de download do currículo
 
-Bash
+## 🌐 Acesse o projeto online
 
-git clone https://github.com/monica308/new-portfolio
-cd new-portfolio
-Instale as dependências:
+[👉 Clique aqui para visualizar meu portfólio](https://seu-portfolio.vercel.app)  
+_(substitua pelo link real do seu deploy no Vercel ou Netlify)_
 
-Bash
+## 📁 Estrutura do projeto
+📦 portfolio
+├── public/ # Imagens, fontes, etc.
+├── src/
+│ ├── components/ # Componentes reutilizáveis (NavBar, Footer, etc.)
+│ ├── pages/ ou app/ # Páginas (sobre, projetos, contato)
+│ ├── styles/ # Estilos globais e personalizados
+│ └── utils/ # Funções e configurações auxiliares
+├── tailwind.config.ts # Configuração do Tailwind
+└── README.md # Documentação do projeto
 
-npm install
-# ou
-yarn install
-Rodando o Servidor de Desenvolvimento
-Após a instalação das dependências, você pode iniciar o servidor de desenvolvimento:
+yaml
+Copiar
+Editar
 
-Bash
 
-npm run dev
-# ou
-yarn dev
-O projeto estará disponível em http://localhost:3000.
+---
 
-Construindo para Produção
-Para gerar uma versão otimizada para produção:
+## 📄 Licença
 
-Bash
+Este projeto está sob a licença **MIT**.  
+Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-npm run build
-# ou
-yarn build
-E para iniciar o servidor de produção:
+---
 
-Bash
+### 🌟 Conecte-se comigo
 
-npm start
-# ou
-yarn start
+Se você curtiu meu trabalho, me acompanha lá no:
 
-🤝 Contribuição
-Contribuições são bem-vindas! Se você tiver sugestões ou quiser relatar um bug, sinta-se à vontade para abrir uma issue ou um pull request neste repositório.
+- [**LinkedIn**](https://www.linkedin.com/in/monica-araujo-dev/)
+- [**GitHub**](https://github.com/monica308)
 
-📄 Licença
-Este projeto está licenciado sob a Licença MIT.
+Feedbacks e conexões são sempre bem-vindos! 😊
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
