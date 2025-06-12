@@ -14,7 +14,6 @@ Meu objetivo é me tornar uma desenvolvedora **Full Stack**, combinando criativi
 - Next.js
 - TypeScript
 - Tailwind CSS
-- Framer Motion
 - Git e GitHub
 
 ## 🧩 Funcionalidades
@@ -27,8 +26,7 @@ Meu objetivo é me tornar uma desenvolvedora **Full Stack**, combinando criativi
 
 ## 🌐 Acesse o projeto online
 
-[👉 Clique aqui para visualizar meu portfólio](https://seu-portfolio.vercel.app)  
-_(substitua pelo link real do seu deploy no Vercel ou Netlify)_
+[👉 Clique aqui para visualizar meu portfólio](https://new-portfolio-kohl-theta.vercel.app/)  
 
 ## 📁 Estrutura do projeto
 📦 portfolio
@@ -40,11 +38,6 @@ _(substitua pelo link real do seu deploy no Vercel ou Netlify)_
 │ └── utils/ # Funções e configurações auxiliares
 ├── tailwind.config.ts # Configuração do Tailwind
 └── README.md # Documentação do projeto
-
-yaml
-Copiar
-Editar
-
 
 ---
 
